@@ -1,0 +1,9 @@
+Dis page:
+https://toyhou.se/SlightlySpritely/characters/folder:8789993
+
+With dis code:
+https://pastebin.com/XF7zrSpW
+
+Currently changed this way: (Toyhouse customizing.txt).
+
+Tables? for characters. Even padding, 3 per row, commit out a template row.
